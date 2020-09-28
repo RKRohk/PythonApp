@@ -14,7 +14,7 @@ def isOdd(num:int) -> bool:
         >>> isOdd(num=3)
         True
     """
-    return True
+    return False
 
 if __name__ == "__main__":
     isEven(num=5)
